@@ -43,7 +43,7 @@ def convert_temperature(value, from_unit, to_unit):
 # Streamlit UI
 def main():
     # Set page title and icon
-    st.set_page_config(page_title="Unit Converter", page_icon="📏")
+    st.set_page_config(page_title="Unit Converter🔄", page_icon="📏")
 
     # Header
     st.title("📏 Google-like Unit Converter")
